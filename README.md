@@ -1,4 +1,6 @@
-# peruvian-sign-language-legal-context
+# Peruvian Sign Language applied to Legal Contexts
+
+La Lengua de Señas peruano en el contexto Legal
 
 De acuerdo al perfil sociodemográfico de la población con discapacidad, 2017, emitido por el Instituto Nacional de Estadística e Informática (INEI), en el Perú 1’550 196 personas, presentan discapacidad auditiva, de ellas, 8 790 utilizan lenguaje de señas peruanas (LSP). Únicamente 696 personas sin discapacidad, manejan esta forma de comunicación. La falta de recursos tecnológicos al servicio de las personas con discapacidad auditiva, constituye una barrera en la inclusión educativa, social y jurídica de ésta población. Una problemática adicional, son los vacíos léxicos en el mensaje del LSP, esto podrían mostrar que muchas veces los traductores de señas añaden distinto contenido semántico para que el mensaje, en lenguaje oral, sea más sencillo de comprender, lo que a su vez podría cambiar el sentido lingüístico del mensaje. Aún más crítico es notar las limitaciones comunicativas en situaciones donde se pone en riesgo la vida o la libertad de la persona con discapacidad auditiva, ya que el contenido del mensaje es decisivo en procesos judiciales.
 

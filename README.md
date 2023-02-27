@@ -1,4 +1,4 @@
-# Peruvian Sign Language applied to Legal Contexts  (La Lengua de Señas peruano en el contexto Legal)
+# Peruvian Sign Language in Legal Contexts (La Lengua de Señas peruano en el contexto Legal)
 
 # Código del proyecto: P-09-CILM-2019
 

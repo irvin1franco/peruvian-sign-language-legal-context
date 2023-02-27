@@ -6,3 +6,19 @@ Al respecto, la Ley N° 2953 establece que las instituciones públicas y privada
 Para alcanzar tal fin, el Protocolo del PJ propone que, en la atención a las personas con discapacidad auditiva, el Poder Judicial, implemente el servicio presencial o virtual, de intérprete en lengua de señas peruana, (Artículo 4.1.2°). Asimismo, una asociación de intérpretes debe avalar al intérprete para asegurar la imparcialidad de la traducción durante las diligencias judiciales (Artículo 4.1.5°). Sin embargo, esta última norma, no considera los resultados científicos de las diferencias entre el contenido léxico del mensaje emitido por la persona con discapacidad auditiva y el mensaje traducido por el intérprete.
 
 
+Objetivos de la investigación
+
+Análisis de la relevancia jurídica sobre la aplicación de un nuevo protocolo de contenido léxico mediante un sistema de reconocimiento de LSP para personas con discapacidad auditiva involucradas en procesos judiciales.
+
+1. Análisis, selección, e implementación de sensores no intrusivos para la interpretación y normalización de datos de reconocimiento del LSP, basados en algoritmos de aprendizaje automático.
+2. Elaboración de una base de datos de acceso público basado en los sensores implementados.
+3. Diseño, validación y aplicación de un protocolo de contenido léxico mediante un sistema de reconocimiento
+de LSP en personas con discapacidad auditiva inmersas en procesos judiciales.
+4. Análisis de la relevancia jurídica acerca de los resultados de la aplicación del protocolo de contenido léxico.
+
+Participante
+- Mag. Milagros Cahuana
+- Dr. Irvin Dongo
+- Mag. Boris Martienez
+- Ing. Lucía Cuellar
+- Mag. Analucía Torres

@@ -28,5 +28,5 @@ de LSP en personas con discapacidad auditiva inmersas en procesos judiciales.
 
 # Estudiantes y/o Colaboradores
 - Dr. Yudith Cardinale, Universidad Internacional de Valencia, España
-- Est. Luis 
-- Est. César
+- Est. Luis Marcos Diaz Naranjo
+- Est. César Alfonso Rosario Escobar

@@ -19,13 +19,14 @@ de LSP en personas con discapacidad auditiva inmersas en procesos judiciales.
 4. Análisis de la relevancia jurídica acerca de los resultados de la aplicación del protocolo de contenido léxico.
 
 # Profesores
-- Mag. Milagros Cahuana, Universidad Católica San Pablo
-- Dr. Irvin Dongo, Universidad Católica San Pablo
-- Mag. Boris Martienez, Universidad Católica San Pablo
-- Ing. Lucía Cuellar, Universidad Católica San Pablo
-- Mag. Analucía Torres, Universidad Católica San Pablo
+- Mag. Milagros Cahuana, Universidad Católica San Pablo, Perú
+- Dr. Irvin Dongo, Universidad Católica San Pablo, Perú
+- Mag. Boris Martienez, Universidad Católica San Pablo, Perú
+- Ing. Lucía Cuellar, Universidad Católica San Pablo, Perú
+- Mag. Analucía Torres, Universidad Católica San Pablo, Perú
 
 
 # Estudiantes y/o Colaboradores
+- Dr. Yudith Cardinale, Universidad Internacional de Valencia, España
 - Est. Luis 
 - Est. César
